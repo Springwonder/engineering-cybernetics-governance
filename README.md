@@ -6,6 +6,8 @@ The central rule is simple:
 
 > Stable cross-task principles belong in memory; reusable control procedures belong in Skills; one-off states and unverified hypotheses stay in logs or experiments.
 
+> 谨以此项目向钱学森先生致敬——感谢他以广阔的眼界和系统的方法，把工程实践中的共同原则提炼为能够指导分析、设计与改进的技术科学。
+
 ## What this is
 
 This repository translates selected principles from H. S. Tsien / 钱学森's *Engineering Cybernetics* into a modern operational framework for AI agents:
