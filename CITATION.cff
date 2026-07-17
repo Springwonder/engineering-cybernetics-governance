@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this Agent Skill, please cite this repository and the primary works listed below."
+title: "Engineering Cybernetics Governance Skill"
+type: software
+version: 1.0.0
+date-released: 2026-07-17
+license: MIT
+abstract: "A portable Agent Skill that applies an engineering-cybernetics lens to AI-agent memory, reusable procedures, evidence promotion, bounded adaptation, and daily feedback review."
+keywords:
+  - engineering cybernetics
+  - AI agents
+  - agent skills
+  - memory governance
+  - feedback control
+references:
+  - type: book
+    title: "Engineering Cybernetics"
+    authors:
+      - family-names: "Tsien"
+        given-names: "Hsue Shen"
+    publisher:
+      name: "McGraw-Hill"
+    year: 1954
+  - type: article
+    title: "Engineering cybernetics: 60 years in the making"
+    authors:
+      - family-names: "Gao"
+        given-names: "Zhiqiang"
+    journal: "Control Theory and Technology"
+    volume: 12
+    start: 97
+    end: 109
+    year: 2014
+    doi: "10.1007/s11768-014-4031-0"
